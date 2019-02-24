@@ -79,6 +79,186 @@
             "keepFreezer": 0,
             "shelfLifeFreezer": "",
             "image": ""
+        },
+        {
+            "id": 3,
+            "name": "3Name Out of Stock",
+            "description": "3Descr",
+            "categoryID": 2,
+            "category": {
+                "id": 2,
+                "name": "TestCategory2"
+            },
+            "quantity": 0,
+            "price": 3.33,
+            "isPerishable": 0,
+            "keepRoom": 0,
+            "shelfLifeRoom": "",
+            "keepFridge": 0,
+            "shelfLifeFridge": "",
+            "keepFreezer": 0,
+            "shelfLifeFreezer": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "3Name Out of Stock",
+            "description": "3Descr",
+            "categoryID": 2,
+            "category": {
+                "id": 2,
+                "name": "TestCategory2"
+            },
+            "quantity": 0,
+            "price": 3.33,
+            "isPerishable": 0,
+            "keepRoom": 0,
+            "shelfLifeRoom": "",
+            "keepFridge": 0,
+            "shelfLifeFridge": "",
+            "keepFreezer": 0,
+            "shelfLifeFreezer": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "3Name Out of Stock",
+            "description": "3Descr",
+            "categoryID": 2,
+            "category": {
+                "id": 2,
+                "name": "TestCategory2"
+            },
+            "quantity": 0,
+            "price": 3.33,
+            "isPerishable": 0,
+            "keepRoom": 0,
+            "shelfLifeRoom": "",
+            "keepFridge": 0,
+            "shelfLifeFridge": "",
+            "keepFreezer": 0,
+            "shelfLifeFreezer": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "3Name Out of Stock",
+            "description": "3Descr",
+            "categoryID": 2,
+            "category": {
+                "id": 2,
+                "name": "TestCategory2"
+            },
+            "quantity": 0,
+            "price": 3.33,
+            "isPerishable": 0,
+            "keepRoom": 0,
+            "shelfLifeRoom": "",
+            "keepFridge": 0,
+            "shelfLifeFridge": "",
+            "keepFreezer": 0,
+            "shelfLifeFreezer": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "3Name Out of Stock",
+            "description": "3Descr",
+            "categoryID": 2,
+            "category": {
+                "id": 2,
+                "name": "TestCategory2"
+            },
+            "quantity": 0,
+            "price": 3.33,
+            "isPerishable": 0,
+            "keepRoom": 0,
+            "shelfLifeRoom": "",
+            "keepFridge": 0,
+            "shelfLifeFridge": "",
+            "keepFreezer": 0,
+            "shelfLifeFreezer": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "3Name Out of Stock",
+            "description": "3Descr",
+            "categoryID": 2,
+            "category": {
+                "id": 2,
+                "name": "TestCategory2"
+            },
+            "quantity": 0,
+            "price": 3.33,
+            "isPerishable": 0,
+            "keepRoom": 0,
+            "shelfLifeRoom": "",
+            "keepFridge": 0,
+            "shelfLifeFridge": "",
+            "keepFreezer": 0,
+            "shelfLifeFreezer": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "3Name Out of Stock",
+            "description": "3Descr",
+            "categoryID": 2,
+            "category": {
+                "id": 2,
+                "name": "TestCategory2"
+            },
+            "quantity": 0,
+            "price": 3.33,
+            "isPerishable": 0,
+            "keepRoom": 0,
+            "shelfLifeRoom": "",
+            "keepFridge": 0,
+            "shelfLifeFridge": "",
+            "keepFreezer": 0,
+            "shelfLifeFreezer": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "3Name Out of Stock",
+            "description": "3Descr",
+            "categoryID": 2,
+            "category": {
+                "id": 2,
+                "name": "TestCategory2"
+            },
+            "quantity": 0,
+            "price": 3.33,
+            "isPerishable": 0,
+            "keepRoom": 0,
+            "shelfLifeRoom": "",
+            "keepFridge": 0,
+            "shelfLifeFridge": "",
+            "keepFreezer": 0,
+            "shelfLifeFreezer": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "3Name Out of Stock",
+            "description": "3Descr",
+            "categoryID": 2,
+            "category": {
+                "id": 2,
+                "name": "TestCategory2"
+            },
+            "quantity": 0,
+            "price": 3.33,
+            "isPerishable": 0,
+            "keepRoom": 0,
+            "shelfLifeRoom": "",
+            "keepFridge": 0,
+            "shelfLifeFridge": "",
+            "keepFreezer": 0,
+            "shelfLifeFreezer": "",
+            "image": ""
         }
   ]
 }
