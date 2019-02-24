@@ -29,7 +29,7 @@
                 "id": 2,
                 "name": "TestCategory2"
             },
-            "quantity": 0,
+            "quantity": 6,
             "price": 3.33,
             "isPerishable": 0,
             "keepRoom": 0,
@@ -49,7 +49,7 @@
                 "id": 2,
                 "name": "TestCategory2"
             },
-            "quantity": 0,
+            "quantity": 8,
             "price": 3.33,
             "isPerishable": 0,
             "keepRoom": 0,
@@ -69,7 +69,7 @@
                 "id": 2,
                 "name": "TestCategory2"
             },
-            "quantity": 0,
+            "quantity": 12,
             "price": 3.33,
             "isPerishable": 0,
             "keepRoom": 0,
@@ -89,7 +89,7 @@
                 "id": 2,
                 "name": "TestCategory2"
             },
-            "quantity": 0,
+            "quantity": 16,
             "price": 3.33,
             "isPerishable": 0,
             "keepRoom": 0,
@@ -109,7 +109,7 @@
                 "id": 2,
                 "name": "TestCategory2"
             },
-            "quantity": 0,
+            "quantity": 20,
             "price": 3.33,
             "isPerishable": 0,
             "keepRoom": 0,
