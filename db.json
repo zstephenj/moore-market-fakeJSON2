@@ -49,7 +49,7 @@
                 "id": 2,
                 "name": "TestCategory2"
             },
-            "quantity": 8,
+            "quantity": 12,
             "price": 3.33,
             "isPerishable": 0,
             "keepRoom": 0,
@@ -69,7 +69,7 @@
                 "id": 2,
                 "name": "TestCategory2"
             },
-            "quantity": 12,
+            "quantity": 8,
             "price": 3.33,
             "isPerishable": 0,
             "keepRoom": 0,
