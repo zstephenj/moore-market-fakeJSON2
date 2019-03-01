@@ -20,7 +20,7 @@
             "id": 3,
             "name": "Midtown Farmers Market",
             "description": "Something about this market. Some things about this market. Moore market description different words of different lengths.",
-            "farmers": [77,88,99,111,222,333],
+            "farmers": [77,88,222,333],
             "position": {"address_components":[{"long_name":"6655","short_name":"6655","types":["street_number"]},{"long_name":"Delmar Boulevard","short_name":"Delmar Blvd","types":["route"]},{"long_name":"Delmar Loop","short_name":"Delmar Loop","types":["neighborhood","political"]},{"long_name":"University City","short_name":"University City","types":["locality","political"]},{"long_name":"Hadley Township","short_name":"Hadley Township","types":["administrative_area_level_3","political"]},{"long_name":"St. Louis County","short_name":"St Louis County","types":["administrative_area_level_2","political"]},{"long_name":"Missouri","short_name":"MO","types":["administrative_area_level_1","political"]},{"long_name":"United States","short_name":"US","types":["country","political"]},{"long_name":"63130","short_name":"63130","types":["postal_code"]}],"adr_address":"<span class=\"street-address\">6655 Delmar Blvd</span>, <span class=\"locality\">University City</span>, <span class=\"region\">MO</span> <span class=\"postal-code\">63130</span>, <span class=\"country-name\">USA</span>","formatted_address":"6655 Delmar Blvd, University City, MO 63130, USA","geometry":{"location":{"lat":{"_custom":{"type":"function","display":"<span>ƒ</span> ()"}},"lng":{"_custom":{"type":"function","display":"<span>ƒ</span> ()"}}},"viewport":{"ma":{"j":38.6551135197085,"l":38.6578114802915},"ga":{"j":-90.30860513029148,"l":-90.30590716970846}}},"icon":"https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png","id":"bfd39b79dd66a0a31eaad8ac1e05868be9f11fef","name":"6655 Delmar Blvd","place_id":"ChIJH4NtSFI134cRSVT2F23RVFo","reference":"ChIJH4NtSFI134cRSVT2F23RVFo","scope":"GOOGLE","types":["premise"],"url":"https://maps.google.com/?q=6655+Delmar+Blvd,+University+City,+MO+63130,+USA&ftid=0x87df3552486d831f:0x5a54d16d17f65449","utc_offset":-360,"vicinity":"University City","html_attributions":[]}
     },
     
@@ -36,7 +36,7 @@
             "id": 5,
             "name": "Schlafly Farmers Market",
             "description": "",
-            "farmers": [1,2,3,4,5,66,77],
+            "farmers": [1,2,],
             "position": {"address_components":[{"long_name":"7260","short_name":"7260","types":["street_number"]},{"long_name":"Southwest Avenue","short_name":"Southwest Ave","types":["route"]},{"long_name":"Maplewood","short_name":"Maplewood","types":["locality","political"]},{"long_name":"Hadley Township","short_name":"Hadley Township","types":["administrative_area_level_3","political"]},{"long_name":"St. Louis County","short_name":"St Louis County","types":["administrative_area_level_2","political"]},{"long_name":"Missouri","short_name":"MO","types":["administrative_area_level_1","political"]},{"long_name":"United States","short_name":"US","types":["country","political"]},{"long_name":"63143","short_name":"63143","types":["postal_code"]}],"adr_address":"<span class=\"street-address\">7260 Southwest Ave</span>, <span class=\"locality\">Maplewood</span>, <span class=\"region\">MO</span> <span class=\"postal-code\">63143</span>, <span class=\"country-name\">USA</span>","formatted_address":"7260 Southwest Ave, Maplewood, MO 63143, USA","geometry":{"location":{"lat":{"_custom":{"type":"function","display":"<span>ƒ</span> ()"}},"lng":{"_custom":{"type":"function","display":"<span>ƒ</span> ()"}}},"viewport":{"ma":{"j":38.6119440697085,"l":38.6146420302915},"ga":{"j":-90.31638098029151,"l":-90.31368301970849}}},"icon":"https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png","id":"4cab5b851b5ef15596aa238f39b1ade347f1341b","name":"7260 Southwest Ave","place_id":"ChIJ170BNYrK2IcR-WsdVNCKR1Q","reference":"ChIJ170BNYrK2IcR-WsdVNCKR1Q","scope":"GOOGLE","types":["premise"],"url":"https://maps.google.com/?q=7260+Southwest+Ave,+Maplewood,+MO+63143,+USA&ftid=0x87d8ca8a3501bdd7:0x54478ad0541d6bf9","utc_offset":-360,"vicinity":"Maplewood","html_attributions":[]}
     },
     
@@ -44,7 +44,7 @@
             "id": 6,
             "name": "",
             "description": "",
-            "farmers": [77,88,99,111,222,333],
+            "farmers": [22,333],
             "position": null
     }
     
