@@ -60,7 +60,7 @@
       "description": "",
       "farmers": [1,2],
       "position": {"formatted_address":"7351 E 29th Ave, Denver, CO 80238, USA","gps":{"lat":39.75817,"lng":-104.90216900000001},"vicinity":"Denver","url":"https://maps.google.com/?q=7351+E+29th+Ave,+Denver,+CO+80238,+USA&ftid=0x876c7b9b1035f7fb:0x99ebf43a08dc9165"}
-    },
+    }
     
   ]
 }
