@@ -38,7 +38,29 @@
             "description": "",
             "farmers": [1,2],
             "position": {"formatted_address":"7260 Southwest Ave, Maplewood, MO 63143, USA","gps":{"lat":38.61282949999999,"lng":-90.31501220000001},"name":"Schlafly Farmers Market","url":"https://maps.google.com/?cid=788000265220792073","vicinity":"7260 Southwest Avenue, Maplewood"}
-    }
+    },
+    
+    {
+      "id": 6,
+      "name": "Union Station Farmers Market",
+      "description": "",
+      "farmers": [1,2],
+      "position": {"formatted_address":"1701 Wynkoop St, Denver, CO 80202, USA","gps":{"lat":39.7529662,"lng":-105.0002556},"vicinity":"Denver","url":"https://maps.google.com/?q=1701+Wynkoop+St,+Denver,+CO+80202,+USA&ftid=0x876c78c308d895a7:0xc3c54d6855585937"}
+    },
+    {
+      "id": 7,
+      "name": "Colorado Fresh Markets Inc",
+      "description": "",
+      "farmers": [1,2],
+      "position": {"formatted_address":"3000 E 1st Ave, Denver, CO 80209, USA","gps":{"lat":39.7168239,"lng":-104.9526295},"vicinity":"Denver","url":"https://maps.google.com/?q=3000+E+1st+Ave,+Denver,+CO+80209,+USA&ftid=0x876c7e913a89fcd1:0x854d98cbd1f0f519"}
+    },
+    {
+      "id": 8,
+      "name": "Stapleton Farmers Market",
+      "description": "",
+      "farmers": [1,2],
+      "position": {"formatted_address":"7351 E 29th Ave, Denver, CO 80238, USA","gps":{"lat":39.75817,"lng":-104.90216900000001},"vicinity":"Denver","url":"https://maps.google.com/?q=7351+E+29th+Ave,+Denver,+CO+80238,+USA&ftid=0x876c7b9b1035f7fb:0x99ebf43a08dc9165"}
+    },
     
   ]
 }
