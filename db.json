@@ -5,7 +5,7 @@
             "name": "The Tower Grove Farmers' Market",
             "description": "Something about this market. Some things about this market. Moore market description different words of different lengths.",
             "farmers": [1,2,3,4,5,66,77,88,99,111,222,333],
-            "position": {"address_components":[{"long_name":"Center Cross Drive","short_name":"Center Cross Dr","types":["route"]},{"long_name":"St. Louis","short_name":"St. Louis","types":["locality","political"]},{"long_name":"Missouri","short_name":"MO","types":["administrative_area_level_1","political"]},{"long_name":"United States","short_name":"US","types":["country","political"]},{"long_name":"63116","short_name":"63116","types":["postal_code"]}],"adr_address":"<span class=\"street-address\">Center Cross Dr</span>, <span class=\"locality\">St. Louis</span>, <span class=\"region\">MO</span> <span class=\"postal-code\">63116</span>, <span class=\"country-name\">USA</span>","formatted_address":"Center Cross Dr, St. Louis, MO 63116, USA","gps":{"lat":38.6067598,"lng":-90.26026680000001},"name":"The Tower Grove Farmers' Market","place_id":"ChIJF8ouOFu02IcR_LKe2TZL538","url":"https://maps.google.com/?cid=9216417861388382972","vicinity":"Center Cross Drive, St. Louis"}
+            "position": {"formatted_address":"Center Cross Dr, St. Louis, MO 63116, USA","gps":{"lat":38.6067598,"lng":-90.26026680000001},"name":"The Tower Grove Farmers' Market","url":"https://maps.google.com/?cid=9216417861388382972","vicinity":"Center Cross Drive, St. Louis"}
     },
     
     {
@@ -13,7 +13,7 @@
             "name": "Summit Produce at Kirkwood Farmers Market",
             "description": "Short and sweet",
             "farmers": [1,2,3,4,111,222,333],
-            "position": {"address_components":[{"long_name":"150","short_name":"150","types":["street_number"]},{"long_name":"East Argonne Drive","short_name":"E Argonne Dr","types":["route"]},{"long_name":"Kirkwood","short_name":"Kirkwood","types":["locality","political"]},{"long_name":"Bonhomme Township","short_name":"Bonhomme Township","types":["administrative_area_level_3","political"]},{"long_name":"St. Louis County","short_name":"St Louis County","types":["administrative_area_level_2","political"]},{"long_name":"Missouri","short_name":"MO","types":["administrative_area_level_1","political"]},{"long_name":"United States","short_name":"US","types":["country","political"]},{"long_name":"63122","short_name":"63122","types":["postal_code"]},{"long_name":"4308","short_name":"4308","types":["postal_code_suffix"]}],"adr_address":"<span class=\"street-address\">150 E Argonne Dr</span>, <span class=\"locality\">Kirkwood</span>, <span class=\"region\">MO</span> <span class=\"postal-code\">63122-4308</span>, <span class=\"country-name\">USA</span>","formatted_address":"150 E Argonne Dr, Kirkwood, MO 63122, USA","gps":{"lat":38.58082,"lng":-90.404518},"name":"Summit Produce at Kirkwood Farmers Market","place_id":"ChIJFQh7UDDM2IcRa6aRU6gjKB4","url":"https://maps.google.com/?cid=2173026026069796459","vicinity":"150 East Argonne Drive, Kirkwood"}
+            "position": {"formatted_address":"150 E Argonne Dr, Kirkwood, MO 63122, USA","gps":{"lat":38.58082,"lng":-90.404518},"name":"Summit Produce at Kirkwood Farmers Market","url":"https://maps.google.com/?cid=2173026026069796459","vicinity":"150 East Argonne Drive, Kirkwood"}
     },
     
     {
@@ -21,7 +21,7 @@
             "name": "Midtown Farmers Market",
             "description": "Something about this market. Some things about this market. Moore market description different words of different lengths.",
             "farmers": [77,88,222,333],
-            "position": {"address_components":[{"long_name":"6655","short_name":"6655","types":["street_number"]},{"long_name":"Delmar Boulevard","short_name":"Delmar Blvd","types":["route"]},{"long_name":"Delmar Loop","short_name":"Delmar Loop","types":["neighborhood","political"]},{"long_name":"St. Louis","short_name":"St. Louis","types":["locality","political"]},{"long_name":"Hadley Township","short_name":"Hadley Township","types":["administrative_area_level_3","political"]},{"long_name":"St. Louis County","short_name":"St Louis County","types":["administrative_area_level_2","political"]},{"long_name":"Missouri","short_name":"MO","types":["administrative_area_level_1","political"]},{"long_name":"United States","short_name":"US","types":["country","political"]},{"long_name":"63130","short_name":"63130","types":["postal_code"]}],"adr_address":"<span class=\"street-address\">6655 Delmar Blvd</span>, <span class=\"locality\">St. Louis</span>, <span class=\"region\">MO</span> <span class=\"postal-code\">63130</span>, <span class=\"country-name\">USA</span>","formatted_address":"6655 Delmar Blvd, St. Louis, MO 63130, USA","gps":{"lat":38.6563628,"lng":-90.3071822},"name":"Midtown Farmers Market","place_id":"ChIJA8aexGi12IcRh7gjfwe4hZc","url":"https://maps.google.com/?cid=10918335213966964871","vicinity":"6655 Delmar Boulevard, St. Louis"}
+            "position": {"formatted_address":"6655 Delmar Blvd, St. Louis, MO 63130, USA","gps":{"lat":38.6563628,"lng":-90.3071822},"name":"Midtown Farmers Market","url":"https://maps.google.com/?cid=10918335213966964871","vicinity":"6655 Delmar Boulevard, St. Louis"}
     },
     
     {
@@ -29,7 +29,7 @@
             "name": "Park Avenue Coffee - Soulard Farmers Market",
             "description": "",
             "farmers": [222,333],
-            "position": {"address_components":[{"long_name":"720","short_name":"720","types":["street_number"]},{"long_name":"Carroll Street","short_name":"Carroll St","types":["route"]},{"long_name":"Soulard","short_name":"Soulard","types":["neighborhood","political"]},{"long_name":"St. Louis","short_name":"St. Louis","types":["locality","political"]},{"long_name":"Missouri","short_name":"MO","types":["administrative_area_level_1","political"]},{"long_name":"United States","short_name":"US","types":["country","political"]},{"long_name":"63104","short_name":"63104","types":["postal_code"]}],"adr_address":"<span class=\"street-address\">720 Carroll St</span>, <span class=\"locality\">St. Louis</span>, <span class=\"region\">MO</span> <span class=\"postal-code\">63104</span>, <span class=\"country-name\">USA</span>","formatted_address":"720 Carroll St, St. Louis, MO 63104, USA","gps":{"lat":38.61039509999999,"lng":-90.2000544},"name":"Park Avenue Coffee - Soulard Farmers Market","place_id":"ChIJwUrFV6ez2IcRKL89IuPE4F8","url":"https://maps.google.com/?cid=6908738308197433128","vicinity":"720 Carroll Street, St. Louis"}
+            "position": {"formatted_address":"720 Carroll St, St. Louis, MO 63104, USA","gps":{"lat":38.61039509999999,"lng":-90.2000544},"name":"Park Avenue Coffee - Soulard Farmers Market","url":"https://maps.google.com/?cid=6908738308197433128","vicinity":"720 Carroll Street, St. Louis"}
     },
     
     {
@@ -37,7 +37,7 @@
             "name": "Schlafly Farmers Market",
             "description": "",
             "farmers": [1,2],
-            "position": {"address_components":[{"long_name":"7260","short_name":"7260","types":["street_number"]},{"long_name":"Southwest Avenue","short_name":"Southwest Ave","types":["route"]},{"long_name":"Maplewood","short_name":"Maplewood","types":["locality","political"]},{"long_name":"Hadley Township","short_name":"Hadley Township","types":["administrative_area_level_3","political"]},{"long_name":"St. Louis County","short_name":"St Louis County","types":["administrative_area_level_2","political"]},{"long_name":"Missouri","short_name":"MO","types":["administrative_area_level_1","political"]},{"long_name":"United States","short_name":"US","types":["country","political"]},{"long_name":"63143","short_name":"63143","types":["postal_code"]}],"adr_address":"<span class=\"street-address\">7260 Southwest Ave</span>, <span class=\"locality\">Maplewood</span>, <span class=\"region\">MO</span> <span class=\"postal-code\">63143</span>, <span class=\"country-name\">USA</span>","formatted_address":"7260 Southwest Ave, Maplewood, MO 63143, USA","gps":{"lat":38.61282949999999,"lng":-90.31501220000001},"name":"Schlafly Farmers Market","place_id":"ChIJfZ2tTYrK2IcRCR9m8xCK7wo","url":"https://maps.google.com/?cid=788000265220792073","vicinity":"7260 Southwest Avenue, Maplewood"}
+            "position": {"formatted_address":"7260 Southwest Ave, Maplewood, MO 63143, USA","gps":{"lat":38.61282949999999,"lng":-90.31501220000001},"name":"Schlafly Farmers Market","url":"https://maps.google.com/?cid=788000265220792073","vicinity":"7260 Southwest Avenue, Maplewood"}
     }
     
   ]
